@@ -42,3 +42,13 @@ body {
   min-height: 500px;
   border-radius: 20px;
 }
+
+.link-activo {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.link-no-activo {
+  text-decoration: none;
+  font-weight: normal;
+}
